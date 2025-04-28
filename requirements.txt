@@ -1,0 +1,8 @@
+numpy==1.24.3
+pandas==1.5.3
+python-telegram-bot==20.8
+apscheduler==3.10.1
+python-dotenv
+requests
+pytz
+flask==2.3.2  # ضروري لبعض بيئات Railway
